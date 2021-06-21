@@ -1,2 +1,2 @@
 # Netlifx-analysis-project
-First data science project - netflix movies &amp; tv shows
+This is my first data science project. I will try to analyze the data about netflix movies & tv shows!
