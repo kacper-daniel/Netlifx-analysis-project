@@ -13,3 +13,5 @@ Some interesting tasks to do on that dataset:
 6. Compare dataset with IMDB ratings
 
 7. Create wordcloud of column 'description'
+
+8. Find out the most common tags

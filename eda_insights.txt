@@ -1,0 +1,15 @@
+Some (maybe) interesting insights from eda:
+
+1. There are more movies than tv shows on Netflix. That's understandable because movies are generally easier and cheaper to make.
+
+2. I haven't heard of almost any of directors from 'Top 10 directors with the highest number of shows/movies', except Steven Spielberg.
+
+3. Top 10 the most common countries in netflix shows/movies is quite understandable. Top 2 countries are the United States and India probably because there is Hollywood in US and Bollywood in India. Turkey and Egypt are interesting, though. Egypt has great history and curious places, but is it really enough to place that country on the nineth place? Also, I don't think cinematography in Turkey is that popular, so I am really surprised that country is on the tenth place. Where is e. g. Germany, Italy, Russia, China?
+
+4. Number of movies on the timeline shows how global cinematography exploded in past 10 years.
+
+5. TV Shows length graph shows how short tv shows dominate over longer ones on Netflix. Movies lenghts aren't surprising however.
+
+6.  The longest tv show by number of seasons: 'Grey's Anatomy
+    The longest movie: 'Black Mirror: Bandersnatch' (but it's an interactive movie, actual length is about ~90 min, so actually the longest movie is 'The School of Mischief')
+    The shortest movie: 'Silent'
