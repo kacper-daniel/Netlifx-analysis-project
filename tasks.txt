@@ -8,10 +8,10 @@ Some interesting tasks to do on that dataset:
 
 4. Is Netflix has increasingly focusing on TV rather tan movies in recent years
 
-5. Top Actors/Acresses, Directors, Genres and Countries 
+5. Top Actors/Acresses, Directors, Genres and Countries (done)
 
-6. Compare dataset with IMDB ratings
+6. Compare dataset with IMDB ratings (done)
 
-7. Create wordcloud of column 'description'
+7. Create wordcloud of column 'description' (done)
 
-8. Find out the most common tags
+8. Find out the most common tags (done)
