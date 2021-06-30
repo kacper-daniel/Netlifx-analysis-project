@@ -1,17 +1,11 @@
 Some interesting tasks to do on that dataset:
 
-1. What content is available in different countries
+1. Is Netflix has increasingly focusing on TV rather tan movies in recent years (done)
 
-2. Identifying similar content by mathcing text-based features
+2. Top Actors/Acresses, Directors, Genres and Countries (done)
 
-3. Network analysis of Actors / Directors
+3. Compare dataset with IMDB ratings (done)
 
-4. Is Netflix has increasingly focusing on TV rather tan movies in recent years
+4. Create wordcloud of column 'description' (done)
 
-5. Top Actors/Acresses, Directors, Genres and Countries (done)
-
-6. Compare dataset with IMDB ratings (done)
-
-7. Create wordcloud of column 'description' (done)
-
-8. Find out the most common tags (done)
+5. Find out the most common tags (done)
